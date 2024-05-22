@@ -36,26 +36,29 @@ This project is a Python-based calculator that features a graphical user interfa
 
 1. Open the application.
   - Click on the numeric and operator buttons to perform calculations.
-Press the 'C' button to clear the display.
-Press the '=' button to calculate the result.
-Using Voice Commands:
+  - Press the 'C' button to clear the display.
+  - Press the '=' button to calculate the result.
+    
+2. Using Voice Commands:
+   - Ensure your microphone is connected and working.
+   - Press the 'Voice Input' button and speak your command (e.g., "2 plus 3").
+   - The result will be displayed and read out loud.
 
-Ensure your microphone is connected and working.
-Press the 'Voice Input' button and speak your command (e.g., "2 plus 3").
-The result will be displayed and read out loud.
-Switching Modes:
+3. Switching Modes:
+   - Press the 'Dark Mode' button to switch to dark mode, and the button will toggle to 'Light Mode' to switch back.
 
-Press the 'Dark Mode' button to switch to dark mode, and the button will toggle to 'Light Mode' to switch back.
-Dependencies
-Python 3.x
-Tkinter (usually included with Python)
-SpeechRecognition
-PyAudio (for microphone input)
-pyttsx3
+     
+## Dependencies
+ - Python 3.x\
+ - Tkinter (usually included with Python)
+ - SpeechRecognition
+ - PyAudio (for microphone input)
+ - pyttsx3
 
 
-
-
+## Video Demo
+(Watch the video demo here)
+[
 
 
 
