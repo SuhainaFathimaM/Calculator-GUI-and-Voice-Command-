@@ -66,22 +66,3 @@ This project is a Python-based calculator that features a graphical user interfa
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-**To see the output 
-visit**
-
-https://youtu.be/vXagtj81_aE
