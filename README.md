@@ -49,7 +49,7 @@ This project is a Python-based calculator that features a graphical user interfa
 
      
 ## Dependencies
- - Python 3.x\
+ - Python 3.x
  - Tkinter (usually included with Python)
  - SpeechRecognition
  - PyAudio (for microphone input)
@@ -58,7 +58,7 @@ This project is a Python-based calculator that features a graphical user interfa
 
 ## Video Demo
 (Watch the video demo here)
-[
+[https://youtu.be/vXagtj81_aE]
 
 
 
